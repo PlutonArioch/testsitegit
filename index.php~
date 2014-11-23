@@ -1,0 +1,11 @@
+<html>
+<header>
+<title>Testsite</title>
+</header>
+<body bgcolor="#111111">
+<?php
+echo test.php
+?>
+
+</body>
+</html>
